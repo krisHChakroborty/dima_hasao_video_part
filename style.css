@@ -1,0 +1,20 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+
+
+body{
+    background-color: black;
+}
+
+.gellery{
+    border-radius: 10px;
+}
